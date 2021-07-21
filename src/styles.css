@@ -148,8 +148,9 @@ body {
   }
 }
 
-@media (max-width: 380px) {
+@media (max-width: 500px) {
   body {
     overflow: unset;
+    padding: 2rem 0;
   }
 }
